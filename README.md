@@ -6,6 +6,8 @@ learning how to create a repository for code
      
   I am trying to learn github to use as a repository for stuff I want to make using python.
   I also would like to work on some cool open source projects. Doing
-  the training that is available via github.
+  the training that is available via online
+  
+  Going to build a profile and also explore some projects
   
    - E - 
