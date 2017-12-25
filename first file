@@ -1,3 +1,12 @@
 # working on learning how to code and use github
 
 Print "Hello World"
+
+""" The above line will do the first basic 
+program everyone learns. The lines below is practice in 
+setting variables with data types. """
+
+New_progamer = True 
+age = 37
+pi = 3.14
+
