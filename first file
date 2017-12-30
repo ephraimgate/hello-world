@@ -10,3 +10,21 @@ New_progamer = True
 age = 37
 pi = 3.14
 
+# The following program is a tip calculator
+
+""" the following variables are set using float because 
+    they are money. tax and tip was set by creating the 
+    percentage for tax and tip"""
+    
+meal = 44.50
+tax = 6.75 / 100
+tip = 15.0 / 100
+
+ # The following line calculates the total for the meal and taxes
+ meal = meal + meal * tax
+
+# The total is the cost of meal including taxes with the tip
+total = meal + meal * tip
+
+#The following line prints the total. 
+print("%.2f" % total)
