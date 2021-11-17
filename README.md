@@ -14,6 +14,8 @@ learning how to create a repository for code
   Since I am about to learn how to program, will continue to use this as a  writing 
   platform first and then move into something that is project orientated 
   
+  Going to work on some projects 
+  
   to show chris github
   
   Testing a difference on this. 
